@@ -1,0 +1,31 @@
+lib/controllers/image-node-view.ts
+  cbbeadf80578c892 4,19,21,24,86-87
+lib/types/index.ts
+  cbbeadf80578c892 7-11
+lib/image-resize.ts
+  cbbeadf80578c892 4,6-12,19-20,50,58-59
+lib/index.ts
+  cbbeadf80578c892 4
+lib/controllers/resize-controller.ts
+  cbbeadf80578c892 1,7,16-17,21-35,43,63
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.0.40",
+  "base_commit_sha": "e26aacf85deac8b35d750b5cd277aa7fc3d47c70",
+  "prompts": {
+    "cbbeadf80578c892": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "a14d0378-713f-48ba-b920-82651efcba5b",
+        "model": "claude-4.5-opus-high-thinking"
+      },
+      "human_author": "Mohak Bajaj <bmohak87@gmail.com>",
+      "messages": [],
+      "total_additions": 56,
+      "total_deletions": 14,
+      "accepted_lines": 46,
+      "overriden_lines": 0
+    }
+  }
+}
