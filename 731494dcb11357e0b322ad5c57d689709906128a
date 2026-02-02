@@ -1,0 +1,27 @@
+lib/controllers/resize-controller.ts
+  cbbeadf80578c892 2,30,50
+lib/controllers/image-node-view.ts
+  cbbeadf80578c892 4,75-94,130,153
+lib/utils/clamp-width.ts
+  cbbeadf80578c892 1-18
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.0.42",
+  "base_commit_sha": "731494dcb11357e0b322ad5c57d689709906128a",
+  "prompts": {
+    "cbbeadf80578c892": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "a14d0378-713f-48ba-b920-82651efcba5b",
+        "model": "default"
+      },
+      "human_author": "Mohak Bajaj <bmohak87@gmail.com>",
+      "messages": [],
+      "total_additions": 46,
+      "total_deletions": 16,
+      "accepted_lines": 44,
+      "overriden_lines": 0
+    }
+  }
+}
